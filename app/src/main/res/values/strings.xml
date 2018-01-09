@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">RecognizeNotes</string>
+    <string name="choose_language">Выбрать язык</string>
+</resources>
